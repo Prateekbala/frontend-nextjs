@@ -1,0 +1,28 @@
+{
+    "Galaxy": [
+        {
+            "id": 1,
+            "title": "Andromeda Galaxy (M31)",
+            "slug": "Andromeda Galaxy",
+            "description": "Andromeda Galaxy is located about 2.537 million light-years away from Earth and is the closest spiral galaxy to our Milky Way",
+            "isFeatured": true,
+            "image": "https://cdn.mos.cms.futurecdn.net/hCXYB5YKXzdq2WEHYEe36d.jpg"
+        },
+        {
+            "id": 2,
+            "title": "Milky Way Galaxy",
+            "slug": "Milky Way Galaxy",
+            "description": "The Milky Way is the galaxy that contains our Solar System. It is estimated to be about 100,000–120,000 light-years in diameter.",
+            "isFeatured": true,
+            "image": "https://cdn.britannica.com/29/148329-050-269A9EFE/night-sky-Milky-Way-Galaxy.jpg"
+        },
+        {
+            "id": 3,
+            "title": "Sombrero Galaxy (M104)",
+            "slug": "Sombrero Galaxy (M104)",
+            "description": " The Sombrero Galaxy is located about 28 million light-years away in the constellation Virgo.",
+            "isFeatured": true,
+            "image": "https://www.eso.org/public/archives/images/screen/sombrero.jpg"
+        }
+    ]
+}
